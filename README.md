@@ -7,7 +7,7 @@ The code is based on [CVPR19_Incremental_Learning](https://github.com/hshustc/CV
 
 ## Running environment
 
-Pytorch 1.10 with cuda 10.0 and cudnn 7.4 in an Ubuntu 18.04 system <br>
+Pytorch 1.10 with cuda 10.0 and cudnn 7.4 in Ubuntu 18.04 system <br>
 
 ## Dataset
 
