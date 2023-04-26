@@ -1,4 +1,4 @@
-# UaD-CE
+# UaD-ClE
 
 This repository contains the PyTorch implementation for 
 "Uncertainty-Aware Distillation for Semi-Supervised Few-Shot Class-Incremental Learning" 
