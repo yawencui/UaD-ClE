@@ -1,6 +1,6 @@
 # UaD-ClE
 
-This repository contains the PyTorch implementation for 
+This repository contains the PyTorch implementation for TNNLS paper
 "Uncertainty-Aware Distillation for Semi-Supervised Few-Shot Class-Incremental Learning" 
 
 The code is based on [CVPR19_Incremental_Learning](https://github.com/hshustc/CVPR19_Incremental_Learning).
