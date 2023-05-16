@@ -24,8 +24,11 @@ We provide a trained model of the first session. Please download from [this link
 ```bash
 # train, the checkpoints will be save in ./checkpoint
 CUDA_VISIBLE_DEVICES=0 python train_cub.py --resume --uncertainty_distillation --frozen_backbone_part --flip_on_means --adapt_lamda
+```
 
-##Citation
+## Citation
+If you find our project useful in your research, please cite:
+```
 @article{cui2023uncertainty,
   title={Uncertainty-Aware Distillation for Semi-Supervised Few-Shot Class-Incremental Learning},
   author={Cui, Yawen and Deng, Wanxia and Chen, Haoyu and Liu, Li},
@@ -33,3 +36,5 @@ CUDA_VISIBLE_DEVICES=0 python train_cub.py --resume --uncertainty_distillation -
   year={2023}
   publisher={IEEE}
 }
+```
+
