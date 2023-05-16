@@ -24,4 +24,3 @@ We provide a trained model of the first session. Please download from [this link
 ```bash
 # train, the checkpoints will be save in ./checkpoint
 CUDA_VISIBLE_DEVICES=0 python train_cub.py --resume --uncertainty_distillation --frozen_backbone_part --flip_on_means --adapt_lamda
-
